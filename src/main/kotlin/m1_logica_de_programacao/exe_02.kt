@@ -1,4 +1,4 @@
-package logica_de_programacao
+package m1_logica_de_programacao
 
 // Escreva um algoritmo que receba um número e imprima a tabuada dele (de 1 a 10)
 

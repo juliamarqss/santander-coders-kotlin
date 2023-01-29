@@ -1,4 +1,4 @@
-package poo.sistema_bancario
+package m2_poo.sistema_bancario
 
 enum class Plano(var tipo: String){
     NORMAL(tipo = "Normal"),

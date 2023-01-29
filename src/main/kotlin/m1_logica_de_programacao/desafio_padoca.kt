@@ -1,4 +1,4 @@
-package logica_de_programacao
+package m1_logica_de_programacao
 
 private const val FINALIZAR = 0
 private const val PAES = 1

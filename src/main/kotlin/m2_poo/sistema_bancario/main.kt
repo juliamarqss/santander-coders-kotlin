@@ -1,4 +1,4 @@
-package poo.sistema_bancario
+package m2_poo.sistema_bancario
 
 const val LINHA = "--------------------------------------------------------------------------------"
 

@@ -1,4 +1,4 @@
-package estrutura_de_dados.listas
+package m3_estrutura_de_dados.listas
 
 /*
 Dado a estrutura de lista ligada que construímos em sala, adicionar:
